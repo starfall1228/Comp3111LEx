@@ -5,4 +5,4 @@ This is a brief introduction
 - intellij
 
 The following is a screenshot of my working history
-![Alt Text](screenshot_1.png)
+![Alt Text](../../../../Images/screenshot_1.png)
